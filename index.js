@@ -1,5 +1,5 @@
 function printVersion() {
-  console.log("version 1.1.0");
+  console.log("version 2.0.0");
 }
 
 module.exports = printVersion;
